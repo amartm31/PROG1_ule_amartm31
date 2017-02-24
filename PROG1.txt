@@ -1,0 +1,12 @@
+tomar	http://dle.rae.es/?id=ZzcN8W0
+caña	http://dle.rae.es/?id=7E5tpxx
+tapa	http://dle.rae.es/?id=Z6OAAxV|Z6OF72b
+barrio	http://dle.rae.es/?id=58tzLGO
+húmedo	http://dle.rae.es/?id=KoINmJk
+romántico	http://dle.rae.es/?id=WeAXeCC
+echar	http://dle.rae.es/?id=EJtx4Yo
+partida	http://dle.rae.es/?id=S0p77Fb
+billar http://dle.rae.es/?id=5WASn7H
+dardo	http://dle.rae.es/?id=Bs13SWc
+
+
